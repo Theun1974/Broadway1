@@ -1,0 +1,54 @@
+body{
+  font-family: Helvetica;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h5{
+  font-size: 18px;
+  color: white;
+}
+
+p{
+  font-size: 14px;
+}
+
+#work{
+  font-size: 23;
+  font-weight: bold;
+  color: white;
+  background-image: url("../img/Roof.png");
+}
+.Roof{
+  background-image: url("../img/Roof.png");
+}
+.white {
+  color: white;
+  font-size: 18px;
+}
+.dimgray{
+  background-color: dimgray;
+
+}
+#align{
+  Align: right;
+  color: white;
+  font-size: 11;
+  
+
+}
